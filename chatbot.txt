@@ -12,8 +12,12 @@ age:19,studying in gce tirunelveli
 age:23,working in chennai, he become ass pastor,
 6)joshua(perumal)
 age:52,working house husband
-skills:1) wife idam adivanguthal
-2) pathiram vilakuthal
-3) thuni thovaithal
-4) oapi addithal
-5) wife driver
+skills:a) wife idam adivanguthal
+a) pathiram vilakuthal
+b) thuni thovaithal
+c) oapi addithal
+d) wife driver
+7)Austin Amos(head paster of bread of life AG church)
+Age:40, he have ex missionary in gems
+8)Mary Austin(head of the womens ministory)
+age:38
